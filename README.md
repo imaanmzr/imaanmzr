@@ -18,6 +18,4 @@ Building modern web applications using ASP.NET Core and Blazor. Experimenting wi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imaanmzr&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=imaanmzr&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
