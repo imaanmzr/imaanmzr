@@ -1,6 +1,6 @@
 🚀 .NET Developer | Software Engineer | Tech Enthusiast
 
-I am a passionate .NET developer with a strong foundation in building scalable and high-performance applications. With a keen interest in C# and the .NET ecosystem, I enjoy solving complex problems.
+I am a passionate .NET developer with a keen interest in C# and the .NET ecosystem.
 
 🔭 Current Focus
 
