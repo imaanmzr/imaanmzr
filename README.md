@@ -1,12 +1,3 @@
-🚀 .NET Developer | Software Engineer | Tech Enthusiast
-
-I am a passionate .NET developer with a keen interest in C# and the .NET ecosystem.
-
-🔭 Current Focus
-
-I'm currently working on:
-Building modern web applications using ASP.NET Core and Blazor. Experimenting with modular monolith architecture and domain driven design
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imaan-mazreati-425241223) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/imaan_mzr) 
 
